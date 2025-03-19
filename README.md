@@ -1,41 +1,15 @@
-나의 첫 GitHub Markdown 연습
+하다 : 가나다의 웰니스 프로젝트
 ===
 
-# 자기소개
-안녕하세요! 저는 김남호입니다. 깃헙 마크다운을 배우는 중입니다.
+# 서비스 소개
+AI 챗봇이 적용된 중년의 심리적 문제를 해결하는 글쓰기
 
-## 관심 분야
-- 프로그래밍
-  - Python
-  - FlutterFlow
-- 스타트업
-- AI와 데이터 분석
-- 경제학
+## 해결할 문제
+50대 여성, 빈 둥지 증후군과 갱년기로 인한 정체성 혼란과 심리적 위기
 
-## 프로젝트 경험
-1. 서비스 홈페이지 만들기
-2. Todo 리스트 앱 제작하기
-3. 날씨 데이터 크롤링하기
+## 솔루션
+**베타**
+카카오톡 AI 챗봇, 웹사이트
 
-## 내가 좋아하는 명언
-> "배움에는 끝이 없다."
-
-## 간단한 코드 예시
-다음은 Python의 간단한 코드입니다.
-
-''' python
-    def greet (name):
-    print(f"안녕하세요, {name}님!")
-    greet ("김남호")
-'''
-
-### 링크와 이미지
-
-// code
-Link: [Google][googlelink]
-
-[googlelink]: https://google.com "Go google"
-
-귀여운 고양이 이미지
-
-![Alt Cat](/path/to/https://t3.ftcdn.net/jpg/01/04/40/06/360_F_104400672_zCaPIFbYT1dXdzN85jso7NV8M6uwpKtf.jpg)
+**정식**
+AI 네이티브 어플리케이션
